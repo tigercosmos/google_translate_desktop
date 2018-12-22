@@ -6,7 +6,7 @@ Unofficial Google Translate Mac Desktop App
 
 ## Download the app
 
-Link: [Google Translate.dmg](https://github.com/tigercosmos/google_translate_desktop/releases/download/1.0.0/Google.Translate-1.0.0.dmg)
+Link: [Google Translate.dmg](https://github.com/tigercosmos/google_translate_desktop/releases/download/1.1.0/Google.Translate-1.1.0.dmg)
 
 ## Why this repo
 
